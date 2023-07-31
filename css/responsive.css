@@ -3855,11 +3855,14 @@ readers do not read off random characters that represent icons */
     padding: 0 7px; }
   .hb-cartarea {
     padding: 0 7px; }
+
   .hb-slidercontent {
-    padding: 90px 0; }
+    padding: 64px 0; }
+
     .hb-slidercontent h1 {
-      font-size: 26px;
-      line-height: 35px; }
+      font-size: 22px;
+      line-height: 28px; }
+
     .hb-slidercontent .hb-description {
       font-size: 14px; }
 

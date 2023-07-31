@@ -6470,6 +6470,7 @@ body {
 .hb-homeslider.img-left .hb-slidercontent {
   left: 10%;
   right: 0;
+  top:-10px;
 }
 
 /* =============================================
